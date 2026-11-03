@@ -16,6 +16,7 @@ venv/
 env/
 .conda/
 conda-env.yaml
+.hbvenv/
 
 # === IDE / OS ===
 .vscode/
